@@ -1,45 +1,46 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nicholas Hanks's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nicholas Hanks
+Student, Mentor, Loves to help people succed.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nikhanks@gmail.com">nikhanks@gmail.com</a>
+| <a href="https://github.com/NicHanks">My Github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying Machine Learning at BYU-Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tensorflow with gymnasium 
 
 
-### Research interests
+### Research interest
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Machine Learning in Finance
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-Present`
+__Brigham Young University, Idaho.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2021 - 2022`
+__Bridgerland Technical College, Utah__
 
+
+<!--
 - Sizar
 
 `1667 - death`
 __Trinity College, Cambridge__
 
 - Fellow
-
 
 
 ## Awards
@@ -51,10 +52,12 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
+## Publications 
+-->
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
+<!--
 ### Journals
 
 `1669`
@@ -81,6 +84,8 @@ __Royal Mint__, London
 
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
+-->
+
 
 
 
